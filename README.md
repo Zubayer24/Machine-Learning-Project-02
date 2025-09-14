@@ -38,10 +38,11 @@ This project demonstrates a complete workflow for text data classification using
 
 ---
 
-## 📊 Results
-- Compared multiple models and visualized their performance.  
-- Logistic Regression showed competitive results compared to Naive Bayes classifiers.  
+📊 Results
 
+Logistic Regression achieved the highest accuracy (0.95), outperforming Naive Bayes classifiers.
+
+Model performance visualizations aid in understanding strengths and weaknesses.
 ---
 
 ## 🛠️ Tech Stack
